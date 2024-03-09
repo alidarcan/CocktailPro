@@ -1,6 +1,6 @@
 # Cocktail Pro
 
-![Cocktail Pro 1](https://iili.io/JVPLUVp.png)
+![Cocktail Pro 0](https://iili.io/JVPLUVp.png)
 
 ## Table of Contents
 
@@ -59,6 +59,9 @@ Just give it a minute. It renders slow at first because of the provider (Not bec
 ```
 
 ![Cocktail Pro 1](https://iili.io/JVPLgiN.png)
+![Cocktail Pro 2](https://github.com/alidarcan/CocktailPro/assets/99339675/adcfc952-2063-4bf7-beea-018a8111c3ec)
+![Cocktail Pro 3](https://github.com/alidarcan/CocktailPro/assets/99339675/c7e02124-e95d-4147-a79e-03409f4c400f)
+
 
 ## Licence <a name = "licence"></a>
 
