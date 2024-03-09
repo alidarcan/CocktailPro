@@ -18,13 +18,13 @@ This is a cocktail finder app with explanation of how to make and a recipe. You 
 - Glass Type
 - Ingredients
 
-[Live Demo](#usage)
+[Live Demo](https://cocktailpro.onrender.com/)
 
 ```
 Just give it a minute. It renders slow at first because of the provider (Not because of me).
 ```
 
-In the development of Cocktail Pro Project, I used [The CocktailDB API](https://www.thecocktaildb.com/), Thank You. They made a great job. I used HTML, CSS, JavaScript, NodeJS, ExpressJS, EJS, Axios, JSON.
+In the development of Cocktail Pro Project, I used [The CocktailDB API](https://www.thecocktaildb.com/), Thank You. They made a great job. I used HTML, CSS, Bootstrap, JavaScript, NodeJS, ExpressJS, EJS, Axios, JSON.
 ## Getting Started <a name = "getting_started"></a>
 
 ### Prerequisites
@@ -52,7 +52,7 @@ node index.js
 
 If you don't want to wait and just open it, Here you are:
 
-[Live Demo](#usage)
+[Live Demo](https://cocktailpro.onrender.com/)
 
 ```
 Just give it a minute. It renders slow at first because of the provider (Not because of me).
