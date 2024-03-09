@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: antiquewhite;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+input{
+    color: black;
+}
+
+.dropdown-item:hover {
+    background-color: #dc3545;
+    color: antiquewhite;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+a:hover{
+    color:#FFC107;
+}
+h1 {
+    font-family: "Satisfy", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2,
+h6,
+p,
+li,
+.dropdown-center,
+.btn {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
+img {
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+body {
+    background: linear-gradient(269deg, #ff3a00, #00fbbb, #fb4400);
+    background-size: 600% 600%;
+
+    -webkit-animation: AnimationName 21s ease infinite;
+    -moz-animation: AnimationName 21s ease infinite;
+    -o-animation: AnimationName 21s ease infinite;
+    animation: AnimationName 21s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@-moz-keyframes AnimationName {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@-o-keyframes AnimationName {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@keyframes AnimationName {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+/* scrollbar */
+/* Firefox (uncomment to work in Firefox, although other properties will not work!)  */
+/** {
+  scrollbar-width: thin;
+  scrollbar-color: #DC3545 #FFC107;
+}*/
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    border-radius: 0px;
+    background-color: #FFC107;
+}
+
+*::-webkit-scrollbar-track:hover {
+    background-color: #FFE710;
+}
+
+*::-webkit-scrollbar-track:active {
+    background-color: #FFE710;
+}
+
+*::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #DC3545;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background-color: #DC5757;
+}
+
+*::-webkit-scrollbar-thumb:active {
+    background-color: #DC5757;
+}
