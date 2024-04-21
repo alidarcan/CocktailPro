@@ -41,7 +41,7 @@ I will tell you. It is a simple process.
 After you cloned the repo, just type the following into the console:
 
 ```
-npm i
+npm install
 ```
 
 And then
